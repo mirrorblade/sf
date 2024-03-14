@@ -1,0 +1,1145 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.509474,
+                    57.857509
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "yellow",
+                "id": "gTbqZ1IVPioVMCWp7FSrb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.544283,
+                    57.857622
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "yellow",
+                "id": "FDuUmsvLo4NLA3PUGH8B_"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.505864,
+                    57.857993
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "yellow",
+                "id": "bPHjkbO3AaAsH6woHSCUl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.512679,
+                    57.859854
+                ]
+            },
+            "properties": {
+                "address": "ул. Моторостроителей, 83Б",
+                "color": "red",
+                "id": "obEVlMD8pWmalCfZmjlxH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.511755,
+                    57.859437
+                ]
+            },
+            "properties": {
+                "address": "ул. Моторостроителей, 93А",
+                "color": "red",
+                "id": "ahTIE7yY0jFQ2d2_n_6eB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.513133,
+                    57.865564
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "red",
+                "id": "irB3CEVfTAQp9nn-TiErR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.504266,
+                    57.865582
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "red",
+                "id": "9-GV6Y-S8PxU3MWxq4ak1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.515788,
+                    57.860844
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "yellow",
+                "id": "8icNpv56U7lBqQSSjSouu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "yellow",
+                "coordinates": [
+                    39.513918,
+                    57.863418
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, проспект 50-летия Победы",
+                "color": "red",
+                "id": "bjeV3-7wBRx2NYmxM4XzH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.537902,
+                    57.880829
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Казанская улица",
+                "color": "red",
+                "id": "d4Q4cQoVXqKjaYmoDIIrB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.514422,
+                    57.871134
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "yellow",
+                "id": "NaJnOMR661zJoU8hZHjfW"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.509878,
+                    57.857122
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "red",
+                "id": "B1InE97CEDW6O7mmP9BsO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.512319,
+                    57.860797
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "red",
+                "id": "p0PpYb1qAf72vPfDEBAl1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.50857,
+                    57.860094
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "red",
+                "id": "Llmcx5PcUy4bxGY3ovHHQ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.540999,
+                    57.881657
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Городской парк",
+                "color": "red",
+                "id": "_mE-6I_hmQBkdapDR7fry"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.519239,
+                    57.863383
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "yellow",
+                "id": "F02GNw3E4EFML83-oa9Pt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.520365,
+                    57.865387
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "yellow",
+                "id": "g44HT_kEqOfHgnnchPRpO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.50783,
+                    57.85658
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "yellow",
+                "id": "IQbCcMQmlGn1P0tagts3A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.508729,
+                    57.860854
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "red",
+                "id": "eWssCDs4j_P09Q-nAHS7a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.506638,
+                    57.86225
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "red",
+                "id": "LshTy6suvdHnGVucX5sJM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.515129,
+                    57.862173
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "yellow",
+                "id": "Qu-DbeOddDVQUQqvbm1N9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.505485,
+                    57.858531
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "0Gq-tOK4nPfE5E0BohEse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.510492,
+                    57.855955
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "thvA9c-cKAmuEVpHSmeJ6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.510586,
+                    57.86852
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "YCRKODfMbdrhtoQ474TLh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.514091,
+                    57.85985
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "mQqUkZdF3r-a_gaqWxSBf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.544732,
+                    57.856498
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Медовая улица",
+                "color": "green",
+                "id": "XvDFGdGEw2i-9oufuBEby"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.522093,
+                    57.862524
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "G16XTVoK7CchhfLcCWCxb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.520629,
+                    57.863606
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "b6Lx78vfltXRcW2LKZPSA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.516861,
+                    57.863967
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "yPpSte6VhgvkeGlqe-ht0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.503936,
+                    57.86366
+                ]
+            },
+            "properties": {
+                "address": "Комсомольская ул., 106В",
+                "color": "green",
+                "id": "E65ulZ9FLlai2wTimKyLu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.516688,
+                    57.861679
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "L3mv9WpROzChLRH-lY-yx"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.517542,
+                    57.859867
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "Sa-9pJ66pWwrT2KcAuIPx"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.51608,
+                    57.865233
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "fu8QH3AeXM8W6MlZ48Ipw"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.510918,
+                    57.858321
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "N7BfQiJ8LUxM0o_hZF6f2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.512426,
+                    57.862066
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "EDIhngqW1b-O1-RB-C9St"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.519759,
+                    57.866905
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "YbyPTHD6HYicuw-CdXOgT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.510494,
+                    57.86351
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "7jmhrxOMtlkeqVhV0m_2b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.518735,
+                    57.867413
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "hiE82T076H0d3tTem5Z8S"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.519613,
+                    57.863641
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "a8uohpI-sbAmkIu5RCrKY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.517861,
+                    57.865463
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "ewYgpVc0egfI2Jn3LaJro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.502198,
+                    57.860158
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "AMRl2vlEgTJrxwX0BGP8Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.510793,
+                    57.866391
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "1s71I9vX4JcJkt7j7ZIET"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.508054,
+                    57.854161
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "meSkIV-Yu8YEH08zk-Whz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.520926,
+                    57.862607
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "oqt0INZWCD3jdrshh7LDX"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.506464,
+                    57.861015
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "RZqJkvZMMQuUOHwRTdl6I"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.520363,
+                    57.863107
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "M95u6VDUSWc7Vbiw6U41Y"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.529314,
+                    57.886813
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Покровская улица",
+                "color": "green",
+                "id": "33hQb79Rp_s-K5W6LEWNG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.498482,
+                    57.85919
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "HartclsLsteXO7I7nn1lS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.515572,
+                    57.858167
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "M5JPyWVx2TQ-x5LIC-Piw"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.545376,
+                    57.889826
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Романовская сторона",
+                "color": "green",
+                "id": "iFYCKF2F8XZE1Mgxtc4SL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.501461,
+                    57.859649
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "n_KwNQK1YBz2DZOshP-Iy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.512748,
+                    57.856868
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "BqVGK_FseE540LhlAZMDz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.505899,
+                    57.864951
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "QHtQMjhbcsqlBOsQR0kpm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.514167,
+                    57.86835
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "HV5dtKguaRl-ZKz-phLsA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.51929,
+                    57.866655
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "jra0vRFoJpDmKp3ohUk3C"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.518595,
+                    57.870353
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Парк отдыха",
+                "color": "green",
+                "id": "iuPEDPk1i1zYP7pXjLekC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.507463,
+                    57.863944
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "WwO-ZwaROyBOkiPvcCp58"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.509145,
+                    57.863129
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "zNe2udpausvimrJNR83Uu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.51752,
+                    57.859015
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "qeFeWon9CSUi3bvYAYNHz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.506282,
+                    57.865725
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "1UyQvCT5Yd9USfbNujJLp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.523225,
+                    57.867264
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "vkaTzNXo7gsfPY3vaYtz1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.525969,
+                    57.897323
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Романовская сторона",
+                "color": "green",
+                "id": "D-LN8-vrblngHI7ob2uOc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.503901,
+                    57.85888
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "64IJSzfNK4XsLYGfuPg3o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.504703,
+                    57.865149
+                ]
+            },
+            "properties": {
+                "address": "Комсомольская ул., 88А",
+                "color": "green",
+                "id": "zksVUvberLtnBWJ0P14lP"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.504452,
+                    57.861691
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "gDnTMb-_xvoDB2myZLdrR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.507849,
+                    57.858682
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "RQ3LEbBjq3OM3mcHGAmf9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.539114,
+                    57.884044
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Романовская сторона",
+                "color": "green",
+                "id": "nT5SKebu423QC5AgyZase"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.510622,
+                    57.865907
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "yellow",
+                "id": "9hT0uKqtwFokCdxHg_hDx"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.508479,
+                    57.862596
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "yellow",
+                "id": "No5UXfqX-i4_EGGylsCdy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.515001,
+                    57.871599
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "bAigDLNO1mj4HAjNY7OUd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.530662,
+                    57.871358
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "kUuLrLbuRG3OKCrpmPJ9I"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.520032,
+                    57.860808
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "green",
+                "id": "DAvdaxwR4d9YLyZ7b_X-y"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.510951,
+                    57.870622
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "red",
+                "id": "Ex8nAR9mI0zX5U9Rbx0OF"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.515752,
+                    57.872163
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "yellow",
+                "id": "Eqv8zSC47f-3m4W5AwP6R"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.516106,
+                    57.858804
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "red",
+                "id": "mEUHV0MROC5VZzL2a5SNZ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.521588,
+                    57.866488
+                ]
+            },
+            "properties": {
+                "address": "Ярославская область, Тутаев, Борисоглебская сторона",
+                "color": "yellow",
+                "id": "HMTuRgSPpTaHS06t_jKHe"
+            }
+        }
+    ]
+}

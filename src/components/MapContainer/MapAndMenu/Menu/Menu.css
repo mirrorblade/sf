@@ -1,0 +1,45 @@
+.menu {
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    font-family: Arial;
+    background-color: var(--menu-bg-color);
+    overflow: hidden
+}
+
+.menu.close {
+    display: none;
+}
+
+.menu.open {
+    display: flex;
+    width: 80vw;
+    height: 85vh;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    z-index: 1001;
+    border-radius: 40px;
+    box-shadow: 1px 0px 10px 1px black;
+}
+
+.menu.touchopen {
+	box-sizing: border-box;
+	width: 100%;
+	height: 100vh;
+	top: 81vh;
+	padding: 25px 0;
+	transition: .05s ease;
+}
+
+.menu.touchopen.low {
+	transition: 0.1s;
+	top: 81vh !important
+}	
+
+.menu.touchopen.high {
+	transition: 0.1s;
+	top: 0 !important
+}

@@ -1,0 +1,160 @@
+table {
+  font-size: 16px;
+  padding: 25px 0 50px 30px;
+  padding-right: 0;
+}
+
+.table {
+  margin-left: 10px;
+  font-size: 25px;
+}
+
+.table_row {
+  margin: 0 0 20px 0;
+}
+
+input[name='short_description'] {
+  font-size: 25px;
+  width: 95%;
+  border: 1px solid black
+}
+
+textarea[name='description'] {
+  width: 95%;
+  font-size: 25px;
+  resize: none;
+  border: 1px solid black
+}
+
+input[type='file'] {
+  font-size: 25px;
+}
+
+#id_photo {
+  display: none;
+}
+
+label[for='id_photo'] {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 225px;
+  height: 65px;
+  color: white;
+  text-align: center;
+  background-color: green;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  user-select: none;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+label[for='id_photo']:hover {
+  background-color: #03ad00
+}
+
+label[for='id_photo']:active {
+  border: 5px solid rgba(225, 225, 225, 0.7);
+  background-color: #048e02;
+  transition: 50ms
+}
+
+button[type='submit'] {
+  position: absolute;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  width: 50%;
+  height: 65px;
+  bottom: 0;
+  right: 4%;
+  font-size: 25px;
+  background-color: green;
+  color: white;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  transition: 0.5s;
+  border: 0
+}
+
+button[type='submit']:hover {
+  background-color: #03ad00
+}
+
+button[type='submit']:active {
+  border: 5px solid rgba(225, 225, 225, 0.7);
+  background-color: #048e02;
+  transition: 50ms
+}
+
+.menuContent>form>h1 {
+  height: 100px;
+  margin: 0;
+  font-weight: 600;
+  font-size: 48px;
+  color: #9ABF3D;
+  text-align: center;
+}
+
+.animation {
+  animation: wobble 1s cubic-bezier(0.5, 0, 0.5, 1);
+  animation-iteration-count: 3;
+}
+
+@keyframes wobble {
+  0% {
+    border: 1px solid black
+  }
+
+  50% {
+    border: 1px solid red
+  }
+
+  100% {
+    border: 1px solid black
+  }
+}
+
+@media(max-width: 1000px) or (max-height: 900px) {
+  button[type='submit'] {
+    position: inherit;
+    width: 100%;
+    right: 1.1%;
+    top: 10vh;
+  }
+}
+
+@media(max-width: 1000px) or (max-height: 900px) {
+  button[type='submit'] {
+    position: inherit;
+    width: 100%;
+    right: 1.1%;
+    top: 10vh;
+  }
+}
+
+@media (hover: none) and (max-width: 1000px) {
+  .menuContent>form>h1 {
+    padding: 0 0 20px 0;
+  }
+}
+
+@media(max-width: 415px) {
+  .menuContent>form>h1 {
+    font-size: 11.5vw
+  }
+}
+
+@media(max-width: 390px) {
+  .table {
+    margin-left: 0 !important
+  }
+
+  .table_row:last-child {
+    display: flex;
+    justify-content: center;
+    align-items: center
+  }
+}

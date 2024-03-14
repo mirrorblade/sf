@@ -1,25 +1,32 @@
-import logo from './logo.svg';
-import './App.css';
+import axios from 'axios';
 
-function App() {
+import './App.css';
+import MainPage from './components/MainPage/MainPage';
+import MapContainer from './components/MapContainer/MapContainer';
+
+export const adapter = axios.create({
+  withCredentials: true,
+	httpsAgent: { 
+    keepAlive: true
+  },
+  baseURL: "http://127.0.0.1:7000/api/"
+})
+
+adapter.get("getCSRFToken")
+  .then(response => {
+    adapter.defaults.headers.common['X-CSRF-Token'] = response.data.csrftoken
+  })
+  .catch(error => {
+    console.log(error)
+  })
+
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <div id='app'>
+      <MainPage />
+      <MapContainer />
+    </div> 
+  )
 }
 
-export default App;
+export default App

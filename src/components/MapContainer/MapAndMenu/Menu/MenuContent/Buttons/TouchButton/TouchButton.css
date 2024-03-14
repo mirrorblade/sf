@@ -1,0 +1,22 @@
+#touchable {
+	position: relative;
+	display: none;
+	width: 100%;
+	min-height: 19vh;
+	/* height: 50px; */
+	/* padding-top: 25px; */
+	bottom: 25px;
+	background-color: transparent;
+	align-items: center;
+	justify-content: center;
+}
+
+.menu.touchopen #touchable {
+	display: flex;
+}
+
+.line {
+	width: 20px;
+	height: 3px;
+	background-color: black;
+}

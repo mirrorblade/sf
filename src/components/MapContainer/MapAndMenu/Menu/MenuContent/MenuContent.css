@@ -1,0 +1,36 @@
+.menuContent::-webkit-scrollbar {
+    width: 7px;
+}
+
+.menuContent::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 20px;
+}
+
+.menuContent {
+    display: flex;
+    flex-direction: column;
+    padding: 0 20px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    width: 75vw;
+    height: 75vh;
+    scrollbar-color: gray transparent;
+    scrollbar-width: thin;
+}
+
+.menuContent.touch {
+	font-size: 30px;
+	overflow-y: hidden;
+	transition: 0.05s;
+	min-height: 100%;
+	width: 100%
+}
+
+.menu.touchopen.high .menuContent.touch {
+	overflow-y: scroll
+}
+
+.menu.touchopen.low .menuContent.touch {
+	overflow-y: scroll
+}
